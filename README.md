@@ -9,7 +9,7 @@ We have fish farms that are equipped with cameras which can allow us to get meas
 - `SampleSubmissionFile.csv` shows the format of the submitted file.
 - `Train.csv` contains the training set.
 - `Test.csv` contains the test set.
-- `My_Notebook.ipynb` contains my solution to the competition (86%).
+- `My_Notebook.ipynb` contains my solution to the competition.
 
 ## Final Standing
 - Score 86%
